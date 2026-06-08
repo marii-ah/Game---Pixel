@@ -8,7 +8,7 @@ Uma jovem bruxa artista tem seus materiais mágicos roubados por um misterioso v
 
 Ao explorar diferentes cenários e superar obstáculos, a bruxa precisará usar sua coragem e habilidades para recuperar o que foi perdido e impedir que seus materiais caiam em mãos erradas.
 
-# 🌟Uma aventura de fantasia, exploração e superação, onde a arte é a maior forma de magia ✨
+🌟Uma aventura de fantasia, exploração e superação, onde a arte é a maior forma de magia ✨
 ## Teste o jogo
 
 🎮 Jogue aqui:
