@@ -1,4 +1,4 @@
-# Game---Pixel
+# Game-Pixel
 # Little Hunter
 
 Projeto de jogo em desenvolvimento, combinando plataforma, exploração e narrativa em uma aventura mágica protagonizada por uma bruxa artista.
