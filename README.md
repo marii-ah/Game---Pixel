@@ -15,7 +15,7 @@ Este projeto foi desenvolvido no GDevelop com o objetivo principal de estudar e 
 
 ## Teste o jogo
 
-🎮 Jogue aqui:
+🎮 Jogue aqui: ⚠️  Abra este link no Opera para uma experiência melhor 
 [Link do jogo](https://gd.games/games/72809abc-5e65-4934-924d-99cef08616b0)
 
 ## Ferramentas
