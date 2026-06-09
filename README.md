@@ -12,7 +12,7 @@ Ao explorar diferentes cenários e superar obstáculos, a bruxa precisará usar 
 ## Teste o jogo
 
 🎮 Jogue aqui:
-[Link do jogo](https://gd.games/instant-builds/b2c74849-d199-40d0-93da-e847354793bd)
+[Link do jogo](https://gd.games/games/72809abc-5e65-4934-924d-99cef08616b0)
 
 ## Ferramentas
 - GDevelop
